@@ -32,7 +32,7 @@ const Location = () => {
           {/* Contact Info */}
           <div className="bg-card border border-border rounded-lg p-8">
             <h3 className="text-2xl font-bold text-foreground mb-6">
-              South Chicago Plumbing and Heating Supply
+              Sample Plumbing and Heating Supply
             </h3>
 
             <div className="space-y-6">

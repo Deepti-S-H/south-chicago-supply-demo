@@ -38,7 +38,7 @@ const Header = () => {
       <nav className="py-4 px-4">
         <div className="container-width flex items-center justify-between">
           <a href="#" className="text-xl font-bold text-foreground">
-            South Chicago Plumbing
+            Sample Plumbing
           </a>
 
           {/* Desktop nav */}
