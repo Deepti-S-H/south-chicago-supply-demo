@@ -6,10 +6,10 @@ const About = () => {
       <div className="container-width">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            About South Chicago Plumbing & Heating Supply
+            About Sample Plumbing & Heating Supply
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            For nearly four decades, our family has been providing Chicago's plumbers, 
+            For nearly four decades, our family has been providing local plumbers, 
             contractors, and homeowners with quality plumbing and heating supplies. 
             We're not just a supply store — we're your neighbors who understand the 
             importance of getting the right part the first time.
@@ -23,7 +23,7 @@ const About = () => {
             </div>
             <h3 className="text-xl font-bold text-foreground mb-2">Family Owned</h3>
             <p className="text-muted-foreground">
-              Three generations of plumbing expertise serving the South Chicago community with pride.
+              Three generations of plumbing expertise serving our community with pride.
             </p>
           </div>
 

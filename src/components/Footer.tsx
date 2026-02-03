@@ -8,10 +8,10 @@ const Footer = () => {
           {/* Business Info */}
           <div>
             <h3 className="text-xl font-bold mb-4">
-              South Chicago Plumbing and Heating Supply
+              Sample Plumbing and Heating Supply
             </h3>
             <p className="text-primary-foreground/70 text-sm">
-              Your trusted family-owned plumbing and heating supply store serving South Chicago and nearby areas since 1985.
+              Your trusted family-owned plumbing and heating supply store serving our community and nearby areas since 1985.
             </p>
           </div>
 
@@ -55,10 +55,10 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/50">
             <p>
-              © {new Date().getFullYear()} South Chicago Plumbing and Heating Supply. All rights reserved.
+              © {new Date().getFullYear()} Sample Plumbing and Heating Supply. All rights reserved.
             </p>
             <p>
-              Serving South Chicago & nearby areas
+              Serving our community & nearby areas
             </p>
           </div>
         </div>

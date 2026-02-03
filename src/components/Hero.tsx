@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="max-w-3xl mx-auto text-center py-8 md:py-16">
             {/* Badge */}
             <div className="inline-flex items-center gap-2 bg-primary-foreground/10 border border-primary-foreground/20 rounded-full px-4 py-2 mb-6">
-              <span className="text-sm font-medium">Serving South Chicago Since 1985</span>
+              <span className="text-sm font-medium">Serving Our Community Since 1985</span>
             </div>
 
             {/* Main headline */}
